@@ -1,0 +1,15 @@
+[package]
+name = "gateio"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+async-ops = "1.1.0"
+barter = "0.9.1"
+barter-data = "0.9.1"
+barter-instrument = "0.2.0"
+barter-integration = "0.8.0"
+chrono = "0.4.39"
+futures = "0.3.31"
+tokio = "1.43.0"
+tracing = "0.1.41"
